@@ -30,7 +30,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Ionic Framework](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
-- [prototype](http://prototypejs.org/) - Prototype takes the complexity out of client-side web programming. Built to solve real-world problems, it adds useful extensions to the browser scripting environment and provides elegant APIs around the clumsy interfaces of Ajax and the Document Object Model.
+- [prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
 - [MooTools](http://mootools.net/) - A collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer.
 - [Ample SDK](http://www.amplesdk.com/)
