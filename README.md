@@ -1,4 +1,4 @@
-##Description
+#Description
 
 A full-stack web developer is someone who has skills in both front-end web design/development and back-end/server coding. 
 We can expect a full-stack web developer to design, code, implement and maintain a fully functional modern interactive website on his/her own.
@@ -7,7 +7,6 @@ These days, companies are looking for a full stack developer.
 So i just want to give some information about the technologies, one has to learn to be a Full stack developer.
 
 #Front End
-
 
 - [HTML](http://www.w3schools.com/html/default.asp)
 - [CSS](http://www.w3schools.com/css/default.asp)
@@ -24,7 +23,6 @@ So i just want to give some information about the technologies, one has to learn
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ####Java Script Frameworks
-
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
 - [Angular JS](https://angularjs.org/) - By Google.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
@@ -40,13 +38,13 @@ So i just want to give some information about the technologies, one has to learn
 
 
 #Back End
+
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 - [python](https://www.python.org/) - a programming language that lets you work quickly and integrate systems more effectively.
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
 - [Node JS](http://nodejs.org/) - A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 
 ####Node JS Frameworks
-
 - [Sails JS](http://sailsjs.org/) - It makes it easy to build custom, enterprise-grade Node.js apps.
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Total JS](https://www.totaljs.com/?language=en) - Free web application framework for Node.js
