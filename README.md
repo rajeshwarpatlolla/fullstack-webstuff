@@ -24,6 +24,9 @@ So i just want to give some information about the technologies, one has to learn
 
 ####Java Script Frameworks
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
+    - [jQuery UI](http://jqueryui.com/)
+    - [jQuery Mobile](http://jquerymobile.com/)
+
 - [Angular JS](https://angularjs.org/) - By Google.
 - [Ionic Framework](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
@@ -63,3 +66,15 @@ So i just want to give some information about the technologies, one has to learn
 - [MySQL](http://www.mysql.com/)
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
 - [PostgreSQL](http://www.postgresql.org/)
+
+
+#Testing
+
+- [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
+- [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
+
+
+
+###NOTE
+I understand there are so many other technologies and frameworks other than what  mentioned here.
+Please suggest any other, you feel missing and will be useful.
