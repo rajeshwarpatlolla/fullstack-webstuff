@@ -39,6 +39,11 @@ So i just want to give some information about the technologies, one has to learn
 - [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 
 
+####Design Tools
+- [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
+- [Graphic Design Tools](http://www.creativebloq.com/graphic-design/underrated-tools-graphic-designers-12121495)
+
+
 #Back End
 
 - [Node JS](http://nodejs.org/) - A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
@@ -71,6 +76,11 @@ So i just want to give some information about the technologies, one has to learn
 
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
+
+##Online Code Editors
+- [JS Fiddle](jsfiddle.net)
+- [Plunker](plnkr.co/edit/?p=preview)
+- [Collabedit](http://collabedit.com/)
 
 
 
