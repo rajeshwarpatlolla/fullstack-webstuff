@@ -26,7 +26,6 @@ So i just want to give some information about the technologies, one has to learn
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/)
-
 - [Angular JS](https://angularjs.org/) - By Google.
 - [Ionic Framework](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
