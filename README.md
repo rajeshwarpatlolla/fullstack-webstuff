@@ -92,4 +92,4 @@ So i just want to give some information about the technologies, one has to learn
 
 ##Contribute
 I understand there are so many other technologies and frameworks other than what i mentioned here.
-Please suggest any other, you feel missing and useful.
+Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications. 
