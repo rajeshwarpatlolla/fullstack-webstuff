@@ -79,6 +79,11 @@ So i just want to give some information about the technologies, one has to learn
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs. 
 
+#Other Stuff
+- [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
+- [Bower](http://bower.io/) - A package manager for the web.
+- [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
+
 ##Online Code Editors
 - [JS Fiddle](jsfiddle.net)
 - [Plunker](plnkr.co/edit/?p=preview)
