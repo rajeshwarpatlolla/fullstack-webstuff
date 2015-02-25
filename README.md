@@ -38,6 +38,9 @@ So i just want to give some information about the technologies, one has to learn
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
 - [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 
+####Utility Tools
+- [Grunt](http://gruntjs.com/) - A tool to automate the tasks such as minification, compilation, unit testing etc.
+- [Bower](http://bower.io/) - A pacakage management tool for web that takes care of fetching and installing packages.
 
 ####Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
