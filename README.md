@@ -50,6 +50,7 @@ So i just want to give some information about the technologies, one has to learn
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 - [python](https://www.python.org/) - a programming language that lets you work quickly and integrate systems more effectively.
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
+- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
 ####Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
@@ -81,7 +82,6 @@ So i just want to give some information about the technologies, one has to learn
 - [JS Fiddle](jsfiddle.net)
 - [Plunker](plnkr.co/edit/?p=preview)
 - [Collabedit](http://collabedit.com/)
-
 
 
 ##Contribute
