@@ -77,6 +77,7 @@ So i just want to give some information about the technologies, one has to learn
 
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
+- [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs. 
 
 ##Online Code Editors
 - [JS Fiddle](jsfiddle.net)
