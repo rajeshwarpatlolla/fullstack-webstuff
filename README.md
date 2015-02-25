@@ -20,7 +20,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Less](http://lesscss.org/) - A CSS pre-processor, meaning that it extends the CSS language.
 - [Sass](http://sass-lang.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
 - [Grid System](http://www.thegridsystem.org/) - The grid system is an aid, not a guarantee.
-- [Material Design](https://material.angularjs.org/#/) - The Angular Material project is an implementation of Material Design in Angular.js.
+- [Material Design](https://material.angularjs.org/#/) - An implementation of Material Design in Angular.js.
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
