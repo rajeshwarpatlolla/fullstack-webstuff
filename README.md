@@ -20,6 +20,8 @@ So i just want to give some information about the technologies, one has to learn
 - [Less](http://lesscss.org/) - A CSS pre-processor, meaning that it extends the CSS language.
 - [Sass](http://sass-lang.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
 - [Grid System](http://www.thegridsystem.org/) - The grid system is an aid, not a guarantee.
+- [Material Design](https://material.angularjs.org/#/) - The Angular Material project is an implementation of Material Design in Angular.js.
+- [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ####Java Script Frameworks
@@ -50,6 +52,7 @@ So i just want to give some information about the technologies, one has to learn
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 - [python](https://www.python.org/) - a programming language that lets you work quickly and integrate systems more effectively.
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
+- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
 ####Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
@@ -76,6 +79,12 @@ So i just want to give some information about the technologies, one has to learn
 
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
+- [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs. 
+
+##Other Stuff
+- [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
+- [Bower](http://bower.io/) - A package manager for the web.
+- [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
 
 ##Online Code Editors
 - [JS Fiddle](jsfiddle.net)
@@ -83,7 +92,6 @@ So i just want to give some information about the technologies, one has to learn
 - [Collabedit](http://collabedit.com/)
 
 
-
 ##Contribute
 I understand there are so many other technologies and frameworks other than what i mentioned here.
-Please suggest any other, you feel missing and useful.
+Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications. 
