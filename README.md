@@ -85,6 +85,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
 - [Bower](http://bower.io/) - A package manager for the web.
 - [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
+- [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
 
 ##Online Code Editors
 - [JS Fiddle](jsfiddle.net)
