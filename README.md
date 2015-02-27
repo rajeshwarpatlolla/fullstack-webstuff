@@ -95,7 +95,9 @@ So i just want to give some information about the technologies, one has to learn
 - [Plunker](plnkr.co/edit/?p=preview)
 - [Collabedit](http://collabedit.com/)
 - [Codepen](http://codepen.io/)
-
+- [Dabblet](http://dabblet.com/)
+- [Thimble](https://thimble.webmaker.org/en-US/)
+- [js bin](http://jsbin.com/)
 
 ##Contribute
 I understand there are so many other technologies and frameworks other than what i mentioned here.
