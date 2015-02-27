@@ -23,6 +23,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Material Design](https://material.angularjs.org/#/) - An implementation of Material Design in Angular.js.
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Stylus](http://learnboost.github.io/stylus/) - Expressive, dynamic, robust CSS
+- [Sizzle JS](http://sizzlejs.com/) - A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ####Java Script Frameworks
