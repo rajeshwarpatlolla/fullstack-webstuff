@@ -14,7 +14,7 @@ So i just want to give some information about the technologies, one has to learn
 
 ####CSS Frameworks
 - [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-- [Semantic UI](http://semantic-ui.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
+- [Semantic UI](http://semantic-ui.com/)
 - [Foundation](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
 - [ElastiCSS](http://elasticss.com/) - A simple css framework to layout web-based interfaces.
 - [Less](http://lesscss.org/) - A CSS pre-processor, meaning that it extends the CSS language.
@@ -35,7 +35,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
 - [prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
-- [MooTools](http://mootools.net/) - A collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer.
+- [MooTools](http://mootools.net/) - A collection of JS utilities designed for the intermediate to advanced JS developer.
 - [Ample SDK](http://www.amplesdk.com/)
 - [Dojo Toolkit](http://dojotoolkit.org/) - Dojo saves you time and scales with your development process, using web standards as its platform.
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
@@ -49,9 +49,9 @@ So i just want to give some information about the technologies, one has to learn
 
 #Back End
 
-- [Node JS](http://nodejs.org/) - A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+- [Node JS](http://nodejs.org/) - A platform built on Chrome's JS runtime for easily building fast, scalable network apps.
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
-- [python](https://www.python.org/) - a programming language that lets you work quickly and integrate systems more effectively.
+- [python](https://www.python.org/) - Lets you work quickly and integrate systems more effectively.
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
 - [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
@@ -62,7 +62,7 @@ So i just want to give some information about the technologies, one has to learn
 - [Sails JS](http://sailsjs.org/) - It makes it easy to build custom, enterprise-grade Node.js apps.
 - [Total JS](https://www.totaljs.com/?language=en) - Free web application framework for Node.js
 - [koa JS](http://koajs.com/) - Next generation web framework for node.js
-- [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+- [LoopBack](http://loopback.io/) - Powerful framework for creating APIs and easily connecting to backend data sources.
 - [Geddy JS](http://geddyjs.org/) - A simple, structured web framework for Node.
 - [Partial JS](http://www.partialjs.com/) - Web application framework for node.js
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
