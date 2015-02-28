@@ -9,7 +9,7 @@ So i want to give you some information about the technologies, frameworks and so
 #Front End
 
 - [HTML](http://www.w3schools.com/html/default.asp)
-- [CSS](http://www.w3schools.com/css/default.asp)
+- [CSS](http://www.w3schools.com/css/default.asp) - A style sheet language used for describing the look and formatting of a document written in a markup language.
 - [Java Script](http://www.w3schools.com/js/default.asp) - A programming language of the Web.
 
 ####CSS Frameworks
