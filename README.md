@@ -24,6 +24,8 @@ So i want to give you some information about the technologies, frameworks and so
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Stylus](http://learnboost.github.io/stylus/) - Expressive, dynamic, robust CSS
 - [Sizzle JS](http://sizzlejs.com/) - A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
+- [Gumby](http://gumbyframework.com/)
+- [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ####Java Script Frameworks
@@ -42,8 +44,6 @@ So i want to give you some information about the technologies, frameworks and so
 - [Dojo Toolkit](http://dojotoolkit.org/) - Dojo saves you time and scales with your development process, using web standards as its platform.
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
 - [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
-- [Gumby](http://gumbyframework.com/)
-- [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
 
 
 ####Design Tools
