@@ -18,12 +18,12 @@ So i want to give you some information about the technologies, frameworks and so
 - [Foundation](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
 - [ElastiCSS](http://elasticss.com/) - A simple css framework to layout web-based interfaces.
 - [Less](http://lesscss.org/) - A CSS pre-processor, meaning that it extends the CSS language.
-- [Sass](http://sass-lang.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
+- [Sass](http://sass-lang.com/) - Most mature, stable, and powerful professional grade CSS extension language in the world.
 - [Grid System](http://www.thegridsystem.org/) - The grid system is an aid, not a guarantee.
 - [Material Design](https://material.angularjs.org/#/) - An implementation of Material Design in Angular.js.
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Stylus](http://learnboost.github.io/stylus/) - Expressive, dynamic, robust CSS
-- [Sizzle JS](http://sizzlejs.com/) - A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
+- [Sizzle JS](http://sizzlejs.com/) - A pure JS CSS selector engine designed to be easily dropped in to a host library.
 - [Gumby](http://gumbyframework.com/)
 - [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
