@@ -13,7 +13,7 @@ So i want to give you some information about the technologies, frameworks and so
 - [Java Script](http://www.w3schools.com/js/default.asp) - A programming language of the Web.
 
 ####CSS Frameworks
-- [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Semantic UI](http://semantic-ui.com/)
 - [Foundation](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
 - [ElastiCSS](http://elasticss.com/) - A simple css framework to layout web-based interfaces.
