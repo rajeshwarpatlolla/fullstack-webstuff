@@ -62,7 +62,7 @@ So i want to give you some information about the technologies, frameworks and so
 ####Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [express io](http://express-io.org/) - A realtime-web framework for nodejs.
-- [Socket Stream](http://www.socketstream.org/) - A framework for Real time Web Apps
+- [Socket Stream](http://www.socketstream.org/) - A framework for Real time Web Apps.
 - [Sails JS](http://sailsjs.org/) - It makes it easy to build custom, enterprise-grade Node.js apps.
 - [Total JS](https://www.totaljs.com/?language=en) - Free web application framework for Node.js
 - [koa JS](http://koajs.com/) - Next generation web framework for node.js
