@@ -44,6 +44,7 @@ So i want to give you some information about the technologies, frameworks and so
 - [Dojo Toolkit](http://dojotoolkit.org/) - Dojo saves you time and scales with your development process, using web standards as its platform.
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
 - [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
+- [Vanilla JS](http://vanilla-js.com/) - a fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
 
 
 ####Design Tools
