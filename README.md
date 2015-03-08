@@ -37,7 +37,8 @@ So i want to give you some information about the technologies, frameworks and so
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
-- [prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
+- [Knockout JS](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern
+- [Prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
 - [MooTools](http://mootools.net/) - A collection of JS utilities designed for the intermediate to advanced JS developer.
 - [Ample SDK](http://www.amplesdk.com/)
