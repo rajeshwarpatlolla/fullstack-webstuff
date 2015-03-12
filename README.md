@@ -21,6 +21,7 @@ So i want to give you some information about the technologies, frameworks and so
 - [Sass](http://sass-lang.com/) - Most mature, stable, and powerful professional grade CSS extension language in the world.
 - [Grid System](http://www.thegridsystem.org/) - The grid system is an aid, not a guarantee.
 - [Material Design](https://material.angularjs.org/#/) - An implementation of Material Design in Angular.js.
+- [Materialize CSS](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
 - [Stylus](http://learnboost.github.io/stylus/) - Expressive, dynamic, robust CSS
 - [Sizzle JS](http://sizzlejs.com/) - A pure JS CSS selector engine designed to be easily dropped in to a host library.
