@@ -2,9 +2,7 @@
 
 A full-stack web developer is someone who has skills in both front-end web design/development and back-end/server coding. 
 We can expect a full-stack web developer to design, code, implement and maintain a fully functional modern interactive website on his/her own.
-
-These days, companies are looking for a full stack developer. 
-So i want to give you some information about the technologies, frameworks and some other useful stuff, one has to know for being a Full stack developer.
+Here i want to give you some information about the technologies, frameworks and some other useful stuff, one has to know for being a Full stack developer.
 
 #Front End
 
@@ -86,9 +84,9 @@ So i want to give you some information about the technologies, frameworks and so
 
 #Testing
 
+- [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
-- [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs. 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
 
