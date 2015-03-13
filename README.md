@@ -21,6 +21,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Material Design](https://material.angularjs.org/#/) - An implementation of Material Design in Angular.js.
 - [Materialize CSS](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 - [Polymer](https://www.polymer-project.org/) - Polymer brings an implementation of material design to the web.
+- [Quantum UI](http://quantumui.org/) - The most powerful NATIVE AngularJS and Bootstrap CSS based UI components make developer life easy.
 - [Stylus](http://learnboost.github.io/stylus/) - Expressive, dynamic, robust CSS
 - [Sizzle JS](http://sizzlejs.com/) - A pure JS CSS selector engine designed to be easily dropped in to a host library.
 - [Gumby](http://gumbyframework.com/)
