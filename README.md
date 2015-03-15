@@ -26,6 +26,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Sizzle JS](http://sizzlejs.com/) - A pure JS CSS selector engine designed to be easily dropped in to a host library.
 - [Gumby](http://gumbyframework.com/)
 - [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
+- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
 ####Java Script Frameworks
