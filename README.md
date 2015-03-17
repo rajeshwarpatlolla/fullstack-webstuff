@@ -1,16 +1,16 @@
-#Description
+# Description
 
 A full-stack web developer is someone who has skills in both front-end web design/development and back-end/server coding. 
 We can expect a full-stack web developer to design, code, implement and maintain a fully functional modern interactive website on his/her own.
 Here i want to give you some information about the technologies, frameworks and some other useful stuff, one has to know for being a Full stack developer.
 
-#Front End
+# Front End
 
 - [HTML](http://www.w3schools.com/html/default.asp) - A markup language for describing web documents.
 - [CSS](http://www.w3schools.com/css/default.asp) - A style sheet language used for describing the look and formatting of a document written in a markup language.
 - [Java Script](http://www.w3schools.com/js/default.asp) - A programming language of the Web.
 
-####CSS Frameworks
+#### CSS Frameworks
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Semantic UI](http://semantic-ui.com/)
 - [Foundation](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
@@ -29,7 +29,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
 
-####Java Script Frameworks
+#### Java Script Frameworks
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/) - A Touch-Optimized Web Framework.
@@ -50,12 +50,12 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 
 
-####Design Tools
+#### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
 - [Graphic Design Tools](http://www.creativebloq.com/graphic-design/underrated-tools-graphic-designers-12121495)
 
 
-#Back End
+# Back End
 
 - [Node JS](http://nodejs.org/) - A platform built on Chrome's JS runtime for easily building fast, scalable network apps.
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
@@ -63,7 +63,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
 - [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
-####Node JS Frameworks
+#### Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [express io](http://express-io.org/) - A realtime-web framework for nodejs.
 - [Socket Stream](http://www.socketstream.org/) - A framework for Real time Web Apps.
@@ -76,7 +76,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
     
-#Data Base
+# Data Base
 
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
 - [MySQL](http://www.mysql.com/)
@@ -84,7 +84,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 
 
-#Testing
+# Testing
 
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
@@ -92,14 +92,14 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
 
-##Other Stuff
+## Other Stuff
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
 - [Bower](http://bower.io/) - A package manager for the web.
 - [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
 - [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
 
-##Online Code Editors
+## Online Code Editors
 - [JS Fiddle](jsfiddle.net)
 - [Plunker](plnkr.co/edit/?p=preview)
 - [Collabedit](http://collabedit.com/)
@@ -108,7 +108,13 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Thimble](https://thimble.webmaker.org/en-US/)
 - [js bin](http://jsbin.com/)
 
-##Contribute
+## Showcase your applications
+- [Materialup](http://www.materialup.com/)
+- [Awwwards](http://www.awwwards.com/)
+- [One Page Love](https://onepagelove.com/)
+- [Dribbble](https://dribbble.com/)
+
+## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
 Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications or suggestions. 
 
