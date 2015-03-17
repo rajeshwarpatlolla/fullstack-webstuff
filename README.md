@@ -108,7 +108,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Thimble](https://thimble.webmaker.org/en-US/)
 - [js bin](http://jsbin.com/)
 
-## Show Case your applications
+## Showcase your applications
 - [Materialup](http://www.materialup.com/)
 - [Awwwards](http://www.awwwards.com/)
 - [One Page Love](https://onepagelove.com/)
