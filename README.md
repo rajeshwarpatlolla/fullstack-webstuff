@@ -99,6 +99,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
 - [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
 - [Slush JS](http://slushjs.github.io/#/) - The streaming scaffolding system.
+- [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
 
 ## Online Code Editors
 - [JS Fiddle](jsfiddle.net)
