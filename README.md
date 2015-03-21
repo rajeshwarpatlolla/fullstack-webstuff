@@ -39,6 +39,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
 - [Knockout JS](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern
+- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 - [Prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
 - [MooTools](http://mootools.net/) - A collection of JS utilities designed for the intermediate to advanced JS developer.
