@@ -27,7 +27,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Gumby](http://gumbyframework.com/)
 - [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-- [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html)
+- [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 #### Java Script Frameworks
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
