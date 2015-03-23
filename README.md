@@ -93,7 +93,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
 
-## Other Stuff
+##  Other Stuff
+
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
 - [Bower](http://bower.io/) - A package manager for the web.
@@ -101,6 +102,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
 - [Slush JS](http://slushjs.github.io/#/) - The streaming scaffolding system.
 - [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
 ## Online Code Editors
 - [JS Fiddle](jsfiddle.net)
