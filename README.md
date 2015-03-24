@@ -113,11 +113,15 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Thimble](https://thimble.webmaker.org/en-US/)
 - [js bin](http://jsbin.com/)
 
-## Showcase your applications
-- [Materialup](http://www.materialup.com/)
-- [Awwwards](http://www.awwwards.com/)
-- [One Page Love](https://onepagelove.com/)
-- [Dribbble](https://dribbble.com/)
+## Showcase & Inspiration
+- [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
+- [Behance](https://www.behance.net/) - A place to show and tell, promote, discover, and explore design.
+- [beta.pttrns](http://beta.pttrns.com/) - The finest collection of mobile design patterns, resources and inspiration.
+- [ui8](https://ui8.net/) - Carefully crafted ui design assets.
+- [One Page Love](https://onepagelove.com/) - The ultimate showcase of beautiful One Page Websites, Templates and Resources. 
+- [Awwwards](http://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet. 
+- [Dribbble](https://dribbble.com/) - What are you working on? Dribbble is show and tell for designers. 
+- [abduzeedo](http://abduzeedo.com/) - A collection of visual inspiration and useful tutorials.
 
 ## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
