@@ -43,6 +43,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
 - [MooTools](http://mootools.net/) - A collection of JS utilities designed for the intermediate to advanced JS developer.
+- [Famo](https://famo.us/) - The ultimate web platform for developers and designers.
 - [Ample SDK](http://www.amplesdk.com/)
 - [Dojo Toolkit](http://dojotoolkit.org/) - Dojo saves you time and scales with your development process, using web standards as its platform.
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
