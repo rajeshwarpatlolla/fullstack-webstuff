@@ -106,8 +106,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
 ## Online Code Editors
-- [JS Fiddle](jsfiddle.net)
-- [Plunker](plnkr.co/edit/?p=preview)
+- [JS Fiddle](http://jsfiddle.net/)
+- [Plunker](http://plnkr.co/edit/?p=preview)
 - [Collabedit](http://collabedit.com/)
 - [Codepen](http://codepen.io/)
 - [Dabblet](http://dabblet.com/)
