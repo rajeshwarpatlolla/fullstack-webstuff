@@ -10,7 +10,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [CSS](http://www.w3schools.com/css/default.asp) - A style sheet language used for describing the look and formatting of a document written in a markup language.
 - [Java Script](http://www.w3schools.com/js/default.asp) - A programming language of the Web.
 
-#### CSS Frameworks
+### CSS Frameworks
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Semantic UI](http://semantic-ui.com/)
 - [Foundation](http://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
@@ -29,7 +29,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
-#### Java Script Frameworks
+### Java Script Frameworks
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/) - A Touch-Optimized Web Framework.
@@ -52,7 +52,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 
 
-#### Design Tools
+### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
 - [Graphic Design Tools](http://www.creativebloq.com/graphic-design/underrated-tools-graphic-designers-12121495)
 
@@ -64,7 +64,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
 - [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
-#### Node JS Frameworks
+### Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [express io](http://express-io.org/) - A realtime-web framework for nodejs.
 - [Socket Stream](http://www.socketstream.org/) - A framework for Real time Web Apps.
@@ -132,7 +132,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Awwwards](http://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet. 
 - [Dribbble](https://dribbble.com/) - What are you working on? Dribbble is show and tell for designers. 
 - [abduzeedo](http://abduzeedo.com/) - A collection of visual inspiration and useful tutorials.
-- [Appgyver](http://www.appgyver.com/showcase)
+- [Appgyver](http://www.appgyver.com/showcase) - Built with Appgyver.
 
 ## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
