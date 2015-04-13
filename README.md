@@ -58,7 +58,6 @@ Here i want to give you some information about the technologies, frameworks and 
 
 
 # Back End
-
 - [Node JS](http://nodejs.org/) - A platform built on Chrome's JS runtime for easily building fast, scalable network apps.
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 - [python](https://www.python.org/) - Lets you work quickly and integrate systems more effectively.
@@ -79,7 +78,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
     
 # Data Base
-
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
 - [MySQL](http://www.mysql.com/)
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
@@ -87,7 +85,6 @@ Here i want to give you some information about the technologies, frameworks and 
 
 
 # Testing
-
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
@@ -104,7 +101,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
 
 # Emulators
-- [Android SDK](https://developer.android.com/sdk/index.html)
+- [Android](https://developer.android.com/sdk/index.html)
 - [Genymotion](https://www.genymotion.com/)
 
 ##  Other Stuff
