@@ -91,7 +91,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
 
-# Frameworks & Platforms
+## Frameworks & Platforms
 - [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
 - [cocoon JS](https://www.ludei.com/cocoonjs/)
 - [Appgyver](http://www.appgyver.com/)
@@ -100,7 +100,7 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
 - [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
 
-# Emulators
+## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
 - [Genymotion](https://www.genymotion.com/)
 
