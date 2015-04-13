@@ -99,6 +99,7 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
 - [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
+- [Xamarin](http://xamarin.com/) - A better way to build, test and monitor.
 
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
@@ -113,6 +114,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Slush JS](http://slushjs.github.io/#/) - The streaming scaffolding system.
 - [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+- [Testling](https://ci.testling.com/) - Run your browser tests on every push.
 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
