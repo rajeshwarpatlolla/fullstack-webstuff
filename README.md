@@ -94,8 +94,20 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
 
-##  Other Stuff
+# Frameworks & Platforms
+- [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
+- [cocoon JS](https://www.ludei.com/cocoonjs/)
+- [Appgyver](http://www.appgyver.com/)
+    - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
+    - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
+    - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
+- [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
 
+# Emulators
+- [Android SDK](https://developer.android.com/sdk/index.html)
+- [Genymotion](https://www.genymotion.com/)
+
+##  Other Stuff
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
 - [Bower](http://bower.io/) - A package manager for the web.
@@ -123,6 +135,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Awwwards](http://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet. 
 - [Dribbble](https://dribbble.com/) - What are you working on? Dribbble is show and tell for designers. 
 - [abduzeedo](http://abduzeedo.com/) - A collection of visual inspiration and useful tutorials.
+- [Appgyver](http://www.appgyver.com/showcase)
 
 ## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
