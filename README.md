@@ -132,7 +132,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Awwwards](http://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet. 
 - [Dribbble](https://dribbble.com/) - What are you working on? Dribbble is show and tell for designers. 
 - [abduzeedo](http://abduzeedo.com/) - A collection of visual inspiration and useful tutorials.
-- [Appgyver](http://www.appgyver.com/showcase)
+- [Appgyver](http://www.appgyver.com/showcase) - Built with Appgyver.
 
 ## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
