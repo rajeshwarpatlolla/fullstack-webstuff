@@ -116,6 +116,16 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 - [Testling](https://ci.testling.com/) - Run your browser tests on every push.
 
+## IDEs
+- [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
+- [Microsoft Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
+- [NetBeans](https://netbeans.org/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Brackets](http://brackets.io/)
+- [Eclips](http://www.eclipse.org/)
+- [Xamarin](https://xamarin.com/studio)
+- [Aptana](http://www.aptana.com/)
+
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
 - [Plunker](http://plnkr.co/edit/?p=preview)
