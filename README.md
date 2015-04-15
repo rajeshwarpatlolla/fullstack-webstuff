@@ -83,13 +83,25 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
 - [PostgreSQL](http://www.postgresql.org/)
 
-
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
 - [Protractor](http://angular.github.io/protractor/#/) - An end-to-end test framework for AngularJS applications. 
 - [Selenium](http://www.seleniumhq.org/) - A portable software testing framework for web applications.  
 - [QUnit JS](http://qunitjs.com/) - A JavaScript Unit Testing framework.  
+
+## No Backend Solutions
+- [Backendless](http://backendless.com/)
+- [Deployd](http://deployd.com/)
+- [Firebase](https://www.firebase.com/)
+- [Hood](http://hood.ie/)
+- [Kinvey](http://www.kinvey.com/)
+- [Parse](https://parse.com/)
+- [Remotestorage](https://remotestorage.io/)
+- [Sockethub](http://sockethub.org/)
+- [Unhosted](https://unhosted.org/)
+- [Staticapps](http://www.staticapps.org/)
+
 
 ## Frameworks & Platforms
 - [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
