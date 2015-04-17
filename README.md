@@ -163,7 +163,7 @@ I understand, there are so many other technologies and frameworks other than wha
 Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications or suggestions.
 
 ## Contact Me
-- [facebook](https://www.facebook.com/rajeshwarpatlolla) 
-
+- [Facebook](https://www.facebook.com/rajeshwarpatlolla) 
+- [Twitter](https://twitter.com/rajeshwar_9032)
 
 *[Back to top](#description)*
