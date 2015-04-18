@@ -137,6 +137,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Eclips](http://www.eclipse.org/)
 - [Xamarin](https://xamarin.com/studio)
 - [Aptana](http://www.aptana.com/)
+- [Light Table](http://lighttable.com/)
 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
