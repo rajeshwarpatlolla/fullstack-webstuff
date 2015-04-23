@@ -167,6 +167,5 @@ Please suggest any other, you feel missing and useful. Please make a pull reques
 - **Gmail**			:	https://www.facebook.com/rajeshwarpatlolla
 - **Facebook**		:	https://www.facebook.com/rajeshwarpatlolla
 - **Twitter**		:	https://twitter.com/rajeshwar_9032
-- **Stackoverflow**	:	stackoverflow.com/users/4337125/rajeshwar
 
 *[Back to top](#description)*
