@@ -138,6 +138,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Xamarin](https://xamarin.com/studio)
 - [Aptana](http://www.aptana.com/)
 - [Light Table](http://lighttable.com/)
+- [Zend](http://www.zend.com/en/products/studio)
 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
