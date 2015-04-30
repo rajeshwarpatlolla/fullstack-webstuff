@@ -133,6 +133,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
 - [Microsoft Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/Download)
 - [NetBeans](https://netbeans.org/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Brackets](http://brackets.io/)
