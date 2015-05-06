@@ -114,6 +114,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
 - [Xamarin](http://xamarin.com/) - A better way to build, test and monitor.
 
+
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
 - [Genymotion](https://www.genymotion.com/)
@@ -130,6 +131,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 - [Testling](https://ci.testling.com/) - Run your browser tests on every push.
+- [Ionicons](http://ionicons.com/)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
