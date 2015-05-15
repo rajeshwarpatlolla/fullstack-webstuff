@@ -168,6 +168,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [abduzeedo](http://abduzeedo.com/) - A collection of visual inspiration and useful tutorials.
 - [Appgyver](http://www.appgyver.com/showcase) - Built with Appgyver.
 
+## License
+- [MIT](https://github.com/rajeshwarpatlolla/fullstack-webstuff/blob/master/LICENSE.MD)
+
 ## Contribute
 I understand, there are so many other technologies and frameworks other than what i mentioned here.
 Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications or suggestions.
