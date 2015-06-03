@@ -118,6 +118,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
 - [Genymotion](https://www.genymotion.com/)
+- [ios-sim](https://github.com/phonegap/ios-sim)
 
 ##  Other Stuff
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
