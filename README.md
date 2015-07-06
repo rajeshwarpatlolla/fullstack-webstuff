@@ -34,7 +34,6 @@ Here i want to give you some information about the technologies, frameworks and 
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/) - A Touch-Optimized Web Framework.
 - [Angular JS](https://angularjs.org/) - By Google.
-- [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
@@ -51,6 +50,10 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 - [Vanilla JS](http://vanilla-js.com/) - A fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
+
+### Hybrid Mobile ppp development frameworks
+- [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
+- [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
 
 
 ### Design Tools
