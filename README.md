@@ -51,9 +51,10 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Vanilla JS](http://vanilla-js.com/) - A fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 
-### Hybrid Mobile ppp development frameworks
+### Hybrid Mobile App Frameworks
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
+- [Mobile Angular UI](http://mobileangularui.com/) - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
 
 
 ### Design Tools
