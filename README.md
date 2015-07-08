@@ -55,6 +55,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
 - [Mobile Angular UI](http://mobileangularui.com/) - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
+- [intel-xdk](https://software.intel.com/en-us/intel-xdk) - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
 
 
 ### Design Tools
