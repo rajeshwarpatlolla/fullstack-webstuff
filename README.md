@@ -56,6 +56,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
 - [Mobile Angular UI](http://mobileangularui.com/) - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
 - [intel-xdk](https://software.intel.com/en-us/intel-xdk) - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
+- [appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One Platform.
 
 
 ### Design Tools
@@ -116,7 +117,6 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
     - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
-- [Appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One platform.
 - [Xamarin](http://xamarin.com/) - A better way to build, test and monitor.
 
 
