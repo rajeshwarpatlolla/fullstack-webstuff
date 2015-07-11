@@ -47,7 +47,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ample SDK](http://www.amplesdk.com/)
 - [Dojo Toolkit](http://dojotoolkit.org/) - Dojo saves you time and scales with your development process, using web standards as its platform.
 - [Echo](http://echo.nextapp.com/site/) - An open-source framework for developing rich web applications.
-- [Kendo UI](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 - [Vanilla JS](http://vanilla-js.com/) - A fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 
@@ -58,7 +57,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [intel-xdk](https://software.intel.com/en-us/intel-xdk) - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
 - [appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One Platform.
 - [sencha touch](http://www.sencha.com/products/touch/) - The leading cross-platform mobile web application framework based on HTML5 and JavaScript for creating universal mobile apps.
-
+- [kendo-ui](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
