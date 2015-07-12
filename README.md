@@ -57,7 +57,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [intel-xdk](https://software.intel.com/en-us/intel-xdk) - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
 - [appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One Platform.
 - [sencha touch](http://www.sencha.com/products/touch/) - The leading cross-platform mobile web application framework based on HTML5 and JavaScript for creating universal mobile apps.
-- [kendo-ui](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript
+- [kendo-ui](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
+- [phonegap](http://phonegap.com/) - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
