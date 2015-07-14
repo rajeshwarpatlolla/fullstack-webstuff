@@ -59,6 +59,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [sencha touch](http://www.sencha.com/products/touch/) - The leading cross-platform mobile web application framework based on HTML5 and JavaScript for creating universal mobile apps.
 - [kendo-ui](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 - [phonegap](http://phonegap.com/) - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
+- [xamarin](http://xamarin.com/)
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
@@ -118,7 +119,6 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
     - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
-- [Xamarin](http://xamarin.com/) - A better way to build, test and monitor.
 
 
 ## Emulators
