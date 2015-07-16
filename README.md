@@ -50,6 +50,12 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Vanilla JS](http://vanilla-js.com/) - A fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 - [sailsjs](http://sailsjs.org/) - The web framework of your dreams.
+- [cocoon JS](https://www.ludei.com/cocoonjs/)
+- [Appgyver](http://www.appgyver.com/)
+    - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
+    - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
+    - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
+
 
 ### Hybrid Mobile App Frameworks
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
@@ -115,12 +121,6 @@ Here i want to give you some information about the technologies, frameworks and 
 
 ## Frameworks & Platforms
 - [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
-- [cocoon JS](https://www.ludei.com/cocoonjs/)
-- [Appgyver](http://www.appgyver.com/)
-    - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
-    - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
-    - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
-
 
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
