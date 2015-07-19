@@ -51,10 +51,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Cappuccino](http://www.cappuccino-project.org/) -  A framework which makes it easy to create advanced web apps.
 - [sailsjs](http://sailsjs.org/) - The web framework of your dreams.
 - [cocoon JS](https://www.ludei.com/cocoonjs/)
-- [Appgyver](http://www.appgyver.com/)
-    - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
-    - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
-    - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
 
 
 ### Hybrid Mobile App Frameworks
@@ -67,6 +63,10 @@ Here i want to give you some information about the technologies, frameworks and 
 - [kendo-ui](http://www.telerik.com/kendo-ui) - Everything for building web and mobile apps with HTML5 and JavaScript.
 - [phonegap](http://phonegap.com/) - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
 - [xamarin](http://xamarin.com/)
+- [Appgyver](http://www.appgyver.com/)
+    - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
+    - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
+    - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
