@@ -57,6 +57,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
 - [Mobile Angular UI](http://mobileangularui.com/) - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
+- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 - [intel-xdk](https://software.intel.com/en-us/intel-xdk) - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
 - [appcelerator](http://www.appcelerator.com/product/) - Native apps. Mobile APIs. Real-time analytics. One Platform.
 - [sencha touch](http://www.sencha.com/products/touch/) - The leading cross-platform mobile web application framework based on HTML5 and JavaScript for creating universal mobile apps.
@@ -78,7 +79,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [php](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 - [python](https://www.python.org/) - Lets you work quickly and integrate systems more effectively.
 - [ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity.
-- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 
 ### Node JS Frameworks
 - [Express JS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
