@@ -99,6 +99,10 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
 - [PostgreSQL](http://www.postgresql.org/)
 
+# API Docs
+- [api blueprint](https://apiblueprint.org/) - Connecting the dots in API development.
+- [apidocjs](http://apidocjs.com/) - Inline Documentation for RESTful web APIs
+
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
 - [Jasmine](http://jasmine.github.io/) - A behavior-driven development framework for testing JavaScript code.
