@@ -55,6 +55,7 @@ Here i want to give you some information about the technologies, frameworks and 
 
 
 ### Hybrid Mobile App Frameworks
+- [cordova.apache](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
 - [onsen ui](http://onsen.io/) - The Answer to Cordova UI Development.
 - [Mobile Angular UI](http://mobileangularui.com/) - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
