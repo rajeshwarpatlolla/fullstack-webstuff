@@ -1,6 +1,6 @@
 # Description
 
-A full-stack web developer is someone who has skills in both front-end web design/development and back-end/server coding. 
+A full-stack web developer should have skills in both front-end web design/development and back-end/server coding. 
 We can expect a full-stack web developer to design, code, implement and maintain a fully functional modern interactive website on his/her own.
 Here i want to give you some information about the technologies, frameworks and some other useful stuff, one has to know for being a Full stack developer.
 
