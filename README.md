@@ -103,7 +103,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 
 # API Docs
-- [api blueprint](https://apiblueprint.org/) - Connecting the dots in API development.
+- [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
 - [apidocjs](http://apidocjs.com/) - Inline Documentation for RESTful web APIs
 - [swagger](http://swagger.io/) - The World's Most Popular Framework for APIs.
 
