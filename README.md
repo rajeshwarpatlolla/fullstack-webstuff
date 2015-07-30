@@ -26,6 +26,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Gumby](http://gumbyframework.com/)
 - [Kube](http://imperavi.com/kube/) - Kube is one of the world's most advanced and flexible frameworks.
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [tuktuk](http://tuktuk.tapquo.com/) - A new smart kid on the Responsive block.
 - [Few Other..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 ### Java Script Frameworks
@@ -37,7 +38,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
 - [Knockout JS](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern
-- [Meteor](https://www.meteor.com/) - A complete open source platform for building web and mobile apps in pure JavaScript.
 - [React JS](https://facebook.github.io/react/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
