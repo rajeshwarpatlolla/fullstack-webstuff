@@ -108,6 +108,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [swagger](http://swagger.io/) - The World's Most Popular Framework for APIs.
 - [apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [django-rest-framework](http://www.django-rest-framework.org/topics/documenting-your-api/)
+- [miredot](http://www.miredot.com/index.html) - The most advanced REST API documentation generator for Java.
 
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
