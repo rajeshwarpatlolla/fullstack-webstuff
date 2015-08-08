@@ -190,7 +190,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [siteinspire](http://www.siteinspire.com/) - A showcase of the finest web and interactive design.
 - [thedesigninspiration](http://thedesigninspiration.com/)
 - [designspiration](http://designspiration.net/)
-- [thebestdesigns](https://www.thebestdesigns.com/)
+- [thebestdesigns](https://www.thebestdesigns.com/) - Featuring the best of web design.
 
 ## License
 - [MIT](https://github.com/rajeshwarpatlolla/fullstack-webstuff/blob/master/LICENSE.MD)
