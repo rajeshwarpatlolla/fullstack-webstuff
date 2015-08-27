@@ -182,6 +182,11 @@ Here i want to give you some information about the technologies, frameworks and 
 - [codeanywhere](https://codeanywhere.com/)
 - [ionic-atom](https://atom.io/packages/ionic-atom)
 
+## Plugins
+- [AngularJS](http://ngmodules.org/) - Find Modules for AngularJS
+- [ionic](http://market.ionic.io/)
+- [gulpjs](http://gulpjs.com/plugins/)
+
 ## Showcase & Inspiration
 - [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
 - [Behance](https://www.behance.net/) - A place to show and tell, promote, discover, and explore design.
