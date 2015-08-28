@@ -186,6 +186,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [AngularJS](http://ngmodules.org/) - Find Modules for AngularJS
 - [ionic](http://market.ionic.io/)
 - [gulpjs](http://gulpjs.com/plugins/)
+- [jquery-plugins](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
 
 ## Showcase & Inspiration
 - [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
