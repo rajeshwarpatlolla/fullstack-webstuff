@@ -187,7 +187,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionic](http://market.ionic.io/)
 - [gulpjs](http://gulpjs.com/plugins/)
 - [jquery-plugins](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
-- [noodl.io](http://www.seipel-ibisevic.com/noodl/) - BY DEVELOPERS, FOR DEVELOPERS.
+- [noodl.io](http://www.seipel-ibisevic.com/noodl/) - By Developers, For Developers.
 
 ## Showcase & Inspiration
 - [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
