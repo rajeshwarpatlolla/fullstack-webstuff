@@ -136,6 +136,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
 - [impactjs](http://impactjs.com/) - The awesomest way to create even more awesome html5 games!
 - [threejs](http://threejs.org/)
+- [createjs](http://createjs.com/)
 
 
 ## Emulators
