@@ -137,6 +137,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [impactjs](http://impactjs.com/) - The awesomest way to create even more awesome html5 games!
 - [threejs](http://threejs.org/)
 - [createjs](http://createjs.com/)
+- [phaser](http://phaser.io/)
 
 
 ## Emulators
