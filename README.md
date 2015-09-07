@@ -139,6 +139,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [createjs](http://createjs.com/)
 - [phaser](http://phaser.io/)
 - [craftyjs](http://craftyjs.com/) - A flexible framework for Javascript games
+- [pandajs](http://www.pandajs.net/) - Free HTML5 game engine for mobile and desktop games.
 
 
 ## Emulators
