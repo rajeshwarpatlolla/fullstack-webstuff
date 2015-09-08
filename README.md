@@ -148,6 +148,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ios-sim](https://github.com/phonegap/ios-sim)
 
 ##  Other Stuff
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
 - [Web RTC](http://www.webrtc.org/) - A free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs
