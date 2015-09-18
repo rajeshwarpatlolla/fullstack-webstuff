@@ -35,6 +35,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [tacit](http://yegor256.github.io/tacit/)
 - [getuikit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [unsemantic](http://unsemantic.com/)
+- [weepower](https://www.weepower.com/) - Blueprint for modern web development
 - [Few other CSS frameworks..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 ### Java Script Frameworks
