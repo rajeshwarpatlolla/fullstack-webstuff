@@ -36,6 +36,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [getuikit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [unsemantic](http://unsemantic.com/)
 - [weepower](https://www.weepower.com/) - Blueprint for modern web development
+- [fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system.
 - [Few other CSS frameworks..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 ### Java Script Frameworks
