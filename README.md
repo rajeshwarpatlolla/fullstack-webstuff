@@ -39,6 +39,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system.
 - [ink](http://ink.sapo.pt/) - Create responsive web interfaces quick and efficiently.
 - [cascade](http://cascade-framework.com/) - Putting back the C in CSS
+- [kickoff](http://trykickoff.github.io/index.html) - A lightweight front-end framework for creating scalable, responsive sites.
 - [Few other CSS frameworks..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 ### Java Script Frameworks
