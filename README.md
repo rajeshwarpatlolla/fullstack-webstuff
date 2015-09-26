@@ -42,6 +42,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [kickoff](http://trykickoff.github.io/index.html) - A lightweight front-end framework for creating scalable, responsive sites.
 - [metroui](http://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style.
 - [topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
+- [inuitcss](http://inuitcss.com/)
 - [Few other CSS frameworks..](http://usablica.github.io/front-end-frameworks/compare.html) 
 
 ### Java Script Frameworks
