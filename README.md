@@ -176,6 +176,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Testling](https://ci.testling.com/) - Run your browser tests on every push.
 - [Ionicons](http://ionicons.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [babeljs](https://babeljs.io/) - Babel is a JavaScript compiler.
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
