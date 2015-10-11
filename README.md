@@ -214,9 +214,10 @@ Here i want to give you some information about the technologies, frameworks and 
 - [bitbucket](https://bitbucket.org/)
 - [codebasehq](https://www.codebasehq.com/)
 - [gitlab](https://about.gitlab.com/)
-- [beanstalkapp](http://beanstalkapp.com/)
+- [beanstalk](http://beanstalkapp.com/)
 - [assembla](https://www.assembla.com/home)
 - [fogcreek](https://www.fogcreek.com/kiln/)
+- [cloudforge](http://www.cloudforge.com/)
 
 ## Showcase & Inspiration
 - [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
