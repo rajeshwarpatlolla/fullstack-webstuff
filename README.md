@@ -212,13 +212,14 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Repository hosting service
 - [github](https://github.com/)
 - [bitbucket](https://bitbucket.org/)
-- [codebasehq](https://www.codebasehq.com/)
 - [gitlab](https://about.gitlab.com/)
+- [codebasehq](https://www.codebasehq.com/)
 - [beanstalk](http://beanstalkapp.com/)
 - [assembla](https://www.assembla.com/home)
 - [fogcreek](https://www.fogcreek.com/kiln/)
 - [cloudforge](http://www.cloudforge.com/)
 - [fogcreek](https://www.fogcreek.com/kiln/)
+- [planio](https://plan.io/)
 
 ## Showcase & Inspiration
 - [Materialup](http://www.materialup.com/) - Daily showcase of the best Material Design concepts, apps and tools!
