@@ -153,7 +153,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [phaser](http://phaser.io/)
 - [craftyjs](http://craftyjs.com/) - A flexible framework for Javascript games
 - [pandajs](http://www.pandajs.net/) - Free HTML5 game engine for mobile and desktop games.
-- [pixijs](https://github.com/pixijs/pixi.js)
+- [pixijs](https://github.com/pixijs/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+- [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A complete JavaScript framework for building 3D games with HTML 5 and WebGL
 
 
 ## Emulators
