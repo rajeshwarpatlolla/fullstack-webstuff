@@ -178,6 +178,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Ionicons](http://ionicons.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [babeljs](https://babeljs.io/) - Babel is a JavaScript compiler.
+- [leafletjs](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps.
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
