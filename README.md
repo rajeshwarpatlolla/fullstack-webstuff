@@ -191,6 +191,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [uxpin](https://www.uxpin.com/)
 - [pidoco](https://pidoco.com/en)
 - [iplotz](http://iplotz.com/)
+- [pidoco](https://pidoco.com/en)
 
 
 ## IDEs
