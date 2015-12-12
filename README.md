@@ -202,6 +202,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [iphonemockup](http://iphonemockup.lkmc.ch/)
 - [lumzy](http://www.lumzy.com/)
 - [omnigroup](http://www.omnigroup.com/)
+- [gliffy](https://www.gliffy.com/)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
