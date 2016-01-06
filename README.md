@@ -205,6 +205,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [gliffy](https://www.gliffy.com/)
 - [protoshare](http://www.protoshare.com/)
 - [OmniGraffle](http://www.omnigroup.com/)
+- [flairbuilder](http://www.flairbuilder.com/)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
