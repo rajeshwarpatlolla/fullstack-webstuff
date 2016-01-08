@@ -270,6 +270,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [designspiration](http://designspiration.net/)
 - [thebestdesigns](https://www.thebestdesigns.com/) - Featuring the best of web design.
 
+## Market Places
+- [ionic market](http://market.ionic.io/)
+
 ## License
 - [MIT](https://github.com/rajeshwarpatlolla/fullstack-webstuff/blob/master/LICENSE.MD)
 
