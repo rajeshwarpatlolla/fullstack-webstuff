@@ -116,6 +116,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [MySQL](http://www.mysql.com/)
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
 - [PostgreSQL](http://www.postgresql.org/)
+- [parse](https://www.parse.com/)
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
