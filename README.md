@@ -273,6 +273,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Market Places
 - [ionic market](http://market.ionic.io/)
 - [ionicthemes](https://ionicthemes.com/)
+- [bootswatch](http://bootswatch.com/)
 
 ## License
 - [MIT](https://github.com/rajeshwarpatlolla/fullstack-webstuff/blob/master/LICENSE.MD)
