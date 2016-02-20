@@ -68,7 +68,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [vuejs](http://vuejs.org/) - A library for building modern web interfaces.
 - [threejs](http://threejs.org/) - A JavaScript 3D Library which makes WebGL simpler.
 
-
 ### Hybrid Mobile App Frameworks
 - [apache cordova](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
 - [Ionic Framework](http://ionicframework.com/) - Open source front-end SDK for developing hybrid mobile apps with HTML5.
@@ -164,24 +163,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Genymotion](https://www.genymotion.com/)
 - [ios-sim](https://github.com/phonegap/ios-sim)
 
-##  Other Stuff
-- [nvm](https://github.com/creationix/nvm) - Node Version Manager
-- [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
-- [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
-- [Web RTC](http://www.webrtc.org/) - A free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs
-- [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
-- [Bower](http://bower.io/) - A package manager for the web.
-- [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
-- [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
-- [Slush JS](http://slushjs.github.io/#/) - The streaming scaffolding system.
-- [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
-- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
-- [Testling](https://ci.testling.com/) - Run your browser tests on every push.
-- [Ionicons](http://ionicons.com/)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [babeljs](https://babeljs.io/) - Babel is a JavaScript compiler.
-- [leafletjs](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps.
-
 ## Wireframing Tools
 - [mockflow](https://mockflow.com/)
 - [moqups](https://moqups.com/)
@@ -275,6 +256,24 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionic market](http://market.ionic.io/)
 - [ionicthemes](https://ionicthemes.com/)
 - [bootswatch](http://bootswatch.com/)
+
+##  Other Stuff
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager
+- [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
+- [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
+- [Web RTC](http://www.webrtc.org/) - A free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs
+- [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
+- [Bower](http://bower.io/) - A package manager for the web.
+- [Yeoman](http://yeoman.io/) - The web's scaffolding tool for modern web apps.
+- [Gulp JS](http://gulpjs.com/) - Automate and enhance your workflow.
+- [Slush JS](http://slushjs.github.io/#/) - The streaming scaffolding system.
+- [Nuget](https://www.nuget.org/) - NuGet is the package manager for the Microsoft development platform including .NET.
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+- [Testling](https://ci.testling.com/) - Run your browser tests on every push.
+- [Ionicons](http://ionicons.com/)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [babeljs](https://babeljs.io/) - Babel is a JavaScript compiler.
+- [leafletjs](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps.
 
 ## License
 - [MIT](https://github.com/rajeshwarpatlolla/fullstack-webstuff/blob/master/LICENSE.MD)
