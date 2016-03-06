@@ -257,10 +257,13 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionicthemes](https://ionicthemes.com/)
 - [bootswatch](http://bootswatch.com/)
 
-##  Other Stuff
-- [nvm](https://github.com/creationix/nvm) - Node Version Manager
+## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
+- [http://underscorejs.org/]( JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.)
+
+##  Other Stuff
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager
 - [Web RTC](http://www.webrtc.org/) - A free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs
 - [Grunt JS](http://gruntjs.com/) - The JavaScript Task Runner.
 - [Bower](http://bower.io/) - A package manager for the web.
