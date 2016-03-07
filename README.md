@@ -261,6 +261,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
 - [http://underscorejs.org/]( JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.)
+- [https://lodash.com/](A modern JavaScript utility library delivering modularity, performance, & extras.)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
