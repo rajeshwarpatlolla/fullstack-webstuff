@@ -117,6 +117,12 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 - [parse](https://www.parse.com/)
 
+## Useful Libraries / Plugins
+- [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
+- [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
+- [underscorejs]( JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.)
+- [lodash](A modern JavaScript utility library delivering modularity, performance, & extras.)
+
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
 - [apidocjs](http://apidocjs.com/) - Inline Documentation for RESTful web APIs
@@ -256,12 +262,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionic market](http://market.ionic.io/)
 - [ionicthemes](https://ionicthemes.com/)
 - [bootswatch](http://bootswatch.com/)
-
-## Useful Libraries / Plugins
-- [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
-- [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
-- [http://underscorejs.org/]( JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.)
-- [https://lodash.com/](A modern JavaScript utility library delivering modularity, performance, & extras.)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
