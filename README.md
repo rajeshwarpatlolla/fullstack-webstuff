@@ -117,6 +117,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 - [parse](https://www.parse.com/)
 
+## Charts and Graphs
+- [highcharts](http://www.highcharts.com/) - Make your data come alive
+
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
