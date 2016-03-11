@@ -124,8 +124,8 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
-- [underscorejs]( JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.)
-- [lodash](A modern JavaScript utility library delivering modularity, performance, & extras.)
+- [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+- [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
