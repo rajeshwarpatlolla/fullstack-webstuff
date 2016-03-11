@@ -123,6 +123,7 @@ Here i want to give you some information about the technologies, frameworks and 
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
+- [Moment JS Timezone](http://momentjs.com/timezone/) - Parse and display dates in any timezone.
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
 - [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
