@@ -120,6 +120,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Charts and Graphs
 - [highcharts](http://www.highcharts.com/) - Make your data come alive
 - [d3js](https://d3js.org/) - A JavaScript library for manipulating documents based on data.
+- [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
