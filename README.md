@@ -123,6 +123,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [angular-chart](http://jtblin.github.io/angular-chart.js/) - Reactive, responsive, beautiful charts for AngularJS based on Chart.js
+- [angular-google-chart](http://angular-google-chart.github.io/angular-google-chart/) - Angular Google Chart
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
