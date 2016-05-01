@@ -273,6 +273,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionic market](http://market.ionic.io/)
 - [ionicthemes](https://ionicthemes.com/)
 - [bootswatch](http://bootswatch.com/)
+- [themeforest](http://themeforest.net/)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
