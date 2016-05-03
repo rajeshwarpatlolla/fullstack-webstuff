@@ -275,6 +275,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [bootswatch](http://bootswatch.com/)
 - [themeforest](http://themeforest.net/)
 - [templatemonster](http://www.templatemonster.com/)
+- [nimbusthemes](http://www.nimbusthemes.com/)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
