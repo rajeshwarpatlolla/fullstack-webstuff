@@ -269,13 +269,14 @@ Here i want to give you some information about the technologies, frameworks and 
 - [designspiration](http://designspiration.net/)
 - [thebestdesigns](https://www.thebestdesigns.com/) - Featuring the best of web design.
 
-## Market Places
+## Market Places & Themes
 - [ionic market](http://market.ionic.io/)
 - [ionicthemes](https://ionicthemes.com/)
 - [bootswatch](http://bootswatch.com/)
 - [themeforest](http://themeforest.net/)
 - [templatemonster](http://www.templatemonster.com/)
 - [nimbusthemes](http://www.nimbusthemes.com/)
+- [themetrust](http://themetrust.com/)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
