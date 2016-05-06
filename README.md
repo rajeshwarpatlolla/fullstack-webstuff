@@ -278,6 +278,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [nimbusthemes](http://www.nimbusthemes.com/)
 - [themetrust](http://themetrust.com/)
 - [themeshift](http://themeshift.com/)
+- [thethemefoundry](https://thethemefoundry.com/)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
