@@ -279,6 +279,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [themetrust](http://themetrust.com/)
 - [themeshift](http://themeshift.com/)
 - [thethemefoundry](https://thethemefoundry.com/)
+- [organicthemes](http://organicthemes.com/)
 
 ##  Other Stuff
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
