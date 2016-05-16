@@ -219,6 +219,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Aptana](http://www.aptana.com/)
 - [Light Table](http://lighttable.com/)
 - [Zend](http://www.zend.com/en/products/studio)
+- [icecoder](https://icecoder.net/)
 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
