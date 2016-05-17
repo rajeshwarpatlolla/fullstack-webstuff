@@ -224,6 +224,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
 - [Plunker](http://plnkr.co/edit/?p=preview)
+- [play.ionic.io](http://play.ionic.io/app/582271e8b8f0)
 - [Collabedit](http://collabedit.com/)
 - [Codepen](http://codepen.io/)
 - [Dabblet](http://dabblet.com/)
