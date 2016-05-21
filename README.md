@@ -120,6 +120,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [LoopBack](http://loopback.io/) - Powerful framework for creating APIs and easily connecting to backend data sources.
 - [Geddy JS](http://geddyjs.org/) - A simple, structured web framework for Node.
 - [Partial JS](http://www.partialjs.com/) - Web application framework for node.js
+- [node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to enable you to build correct REST web services.
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
 - [trails](https://github.com/trailsjs/trails) - Modern Web Application Framework for Node.js
@@ -131,6 +132,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [derbyjs](http://derbyjs.com/) - A full-stack framework for writing modern web applications.
 - [actionherojs](http://www.actionherojs.com/) - The Reusable, Scalable, and Quick node.js API Server!
 - [frisbyjs](http://frisbyjs.com/) - A REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun. Read below for a quick overview, or check out the API documentation.
+- [senecajs](http://senecajs.org/) - Design, develop and organize your code
     
 # Data Base
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
