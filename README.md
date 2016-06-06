@@ -152,6 +152,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
 - [Material icons](https://design.google.com/icons/) - Material icons
 - [material-design-iconic-font](http://zavoloklom.github.io/material-design-iconic-font/)
+- [bootstrap icons](http://getbootstrap.com/components/)
 
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
