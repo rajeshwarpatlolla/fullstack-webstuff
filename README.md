@@ -158,6 +158,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [flaticon](http://www.flaticon.com/packs)
 - [iconfinder](https://www.iconfinder.com/)
 - [thenounproject](https://thenounproject.com/)
+- [freepik](http://www.freepik.com/free-vectors/icons)
 
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
