@@ -160,6 +160,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [thenounproject](https://thenounproject.com/)
 - [freepik](http://www.freepik.com/free-vectors/icons)
 - [modernuiicons](http://modernuiicons.com/)
+- [metrize-icons](http://www.alessioatzeni.com/metrize-icons/)
 
 # Testing
 - [Karma](http://karma-runner.github.io/0.12/index.html) - A test runner that fits all our needs.
