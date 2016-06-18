@@ -243,6 +243,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Light Table](http://lighttable.com/)
 - [Zend](http://www.zend.com/en/products/studio)
 - [icecoder](https://icecoder.net/)
+- [superpowers](http://superpowers-html5.com/)
 
 ## Online Code Editors
 - [JS Fiddle](http://jsfiddle.net/)
