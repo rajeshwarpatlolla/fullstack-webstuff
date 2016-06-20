@@ -198,6 +198,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [turbulenz](http://turbulenz.com)
 - [compilgames](http://www.compilgames.net/)
 - [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
+- [stage.js](http://piqnt.com/stage.js)
 
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
