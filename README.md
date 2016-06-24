@@ -201,6 +201,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [stage.js](http://piqnt.com/stage.js)
 - [goojs](https://goocreate.com/) - MAKE GAMES AND VR FOR THE BROWSER
 - [whitestormjs](http://whitestormjs.xyz/) - A framework for 3D web apps built with Three.js technology.
+- [qiciengine](http://www.qiciengine.com/)
 
 ## Emulators
 - [Android](https://developer.android.com/sdk/index.html)
