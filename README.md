@@ -123,6 +123,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
 
+# Hosting
+- [amazon aws](https://aws.amazon.com/)
+
 ## Charts and Graphs
 - [highcharts](http://www.highcharts.com/) - Make your data come alive
 - [d3js](https://d3js.org/) - A JavaScript library for manipulating documents based on data.
