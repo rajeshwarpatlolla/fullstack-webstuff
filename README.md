@@ -125,6 +125,7 @@ Here i want to give you some information about the technologies, frameworks and 
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
+- [heroku](https://www.heroku.com/)
 
 ## Charts and Graphs
 - [highcharts](http://www.highcharts.com/) - Make your data come alive
