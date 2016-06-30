@@ -122,6 +122,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
+- [joyent](https://www.joyent.com/)
+
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
