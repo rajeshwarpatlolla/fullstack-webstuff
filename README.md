@@ -123,6 +123,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
 - [joyent](https://www.joyent.com/)
+- [rackspace](https://www.rackspace.com/cloud/servers)
 
 
 # Hosting
