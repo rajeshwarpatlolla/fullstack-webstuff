@@ -124,7 +124,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [mlab](https://mlab.com/)
 - [joyent](https://www.joyent.com/)
 - [rackspace](https://www.rackspace.com/cloud/servers)
-
+- [softlayer](http://www.softlayer.com/)
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
