@@ -122,14 +122,14 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
-- [joyent](https://www.joyent.com/)
-- [rackspace](https://www.rackspace.com/cloud/servers)
-- [softlayer](http://www.softlayer.com/)
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
-- [heroku](https://www.heroku.com/)
 - [microsoft azure](https://azure.microsoft.com/en-us/)
+- [joyent](https://www.joyent.com/)
+- [rackspace](https://www.rackspace.com/cloud/servers)
+- [softlayer](http://www.softlayer.com/)
+- [heroku](https://www.heroku.com/)
 
 ## Charts and Graphs
 - [highcharts](http://www.highcharts.com/) - Make your data come alive
