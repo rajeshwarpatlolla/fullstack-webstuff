@@ -36,6 +36,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [tacit](http://yegor256.github.io/tacit/)
 - [getuikit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [unsemantic](http://unsemantic.com/)
+- [basegui](http://basegui.de/) - A lightweight and robust CSS framework for prototyping and production code.
 - [weepower](https://www.weepower.com/) - Blueprint for modern web development
 - [fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system.
 - [ink](http://ink.sapo.pt/) - Create responsive web interfaces quick and efficiently.
