@@ -121,6 +121,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Geddy JS](http://geddyjs.org/) - A simple, structured web framework for Node.
 - [Partial JS](http://www.partialjs.com/) - Web application framework for node.js
 - [node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to enable you to build correct REST web services.
+- [getraddish](http://getraddish.com/) - Raddish is a NodeJS Framework incorporating the power of MVC and DCI in a single framework.
 - [facet](http://facet.github.io/platform/) - Extensible, framework agnostic JSON API platform for Node.js
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
