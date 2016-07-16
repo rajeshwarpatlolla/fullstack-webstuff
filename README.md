@@ -117,6 +117,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Partial JS](http://www.partialjs.com/) - Web application framework for node.js
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
+- [trails](https://github.com/trailsjs/trails) - Modern Web Application Framework for Node.js
     
 # Data Base
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
