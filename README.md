@@ -126,6 +126,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [PostgreSQL](http://www.postgresql.org/)
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
+- [aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
