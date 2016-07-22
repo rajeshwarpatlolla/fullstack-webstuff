@@ -120,6 +120,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [trails](https://github.com/trailsjs/trails) - Modern Web Application Framework for Node.js
 - [dietjs](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
 - [compoundjs](http://compoundjs.com/)
+- [adonisjs](http://adonisjs.com/) - Practical. Reliable. Productive
     
 # Data Base
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
