@@ -123,6 +123,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to enable you to build correct REST web services.
 - [getraddish](http://getraddish.com/) - Raddish is a NodeJS Framework incorporating the power of MVC and DCI in a single framework.
 - [restberry](http://restberry.com/) - Framework for setting up RESTful APIs with NodeJS. Define your models then setup your CRUD API without needing to write any code.
+- [gugamarket](http://pliik.github.io/gugamarket/) - Gugamarket REST API framework
 - [facet](http://facet.github.io/platform/) - Extensible, framework agnostic JSON API platform for Node.js
 - [Locomotive JS](http://locomotivejs.org/) - Powerful MVC web framework for Node.js.
 - [Flatiron JS](http://flatironjs.org/) - An adaptable framework for building modern web applications.
