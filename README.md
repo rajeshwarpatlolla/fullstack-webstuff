@@ -174,6 +174,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [riotjs](http://riotjs.com/)
+- [wintersmith](http://wintersmith.io/) - Flexible, minimalistic, multi-platform static site generator built on top of node.js.
 - [feathersjs](http://feathersjs.com/) - A minimalist real-time framework for tomorrow's apps.
 - [seedsjs](http://seedsjs.com/) - Full-stack ember framework
 - [horizon](http://horizon.io/) - A realtime, open-source backend for JavaScript apps.
