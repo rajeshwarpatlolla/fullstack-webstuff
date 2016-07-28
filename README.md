@@ -177,6 +177,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [feathersjs](http://feathersjs.com/) - A minimalist real-time framework for tomorrow's apps.
 - [seedsjs](http://seedsjs.com/) - Full-stack ember framework
 - [horizon](http://horizon.io/) - A realtime, open-source backend for JavaScript apps.
+- [krakenjs](http://krakenjs.com/) - Give your node.js express apps some extra arms
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
