@@ -74,6 +74,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [cocoon JS](https://www.ludei.com/cocoonjs/)
 - [vuejs](http://vuejs.org/) - A library for building modern web interfaces.
 - [threejs](http://threejs.org/) - A JavaScript 3D Library which makes WebGL simpler.
+- [webrxjs](http://webrxjs.org/)
 
 ### Hybrid Mobile App Frameworks
 - [apache cordova](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
