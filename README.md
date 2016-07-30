@@ -158,6 +158,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
 - [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [riotjs](http://riotjs.com/)
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
