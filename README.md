@@ -76,6 +76,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [threejs](http://threejs.org/) - A JavaScript 3D Library which makes WebGL simpler.
 - [webrxjs](http://webrxjs.org/)
 - [mithril](http://mithril.js.org/) - A Javascript Framework for Building Brilliant Applications
+- [aurelia](http://aurelia.io/) - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 
 ### Hybrid Mobile App Frameworks
 - [apache cordova](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
