@@ -138,6 +138,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [mlab](https://mlab.com/)
 - [couchbase](http://www.couchbase.com/)
 - [aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale
+- [flickerjs](http://flickerstudio.github.io/flickerjs/) - Super fast and simple web framework for node.js
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
