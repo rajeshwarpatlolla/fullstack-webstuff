@@ -129,6 +129,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [strapi](http://strapi.io/) - Build powerful back-end with no effort.
 - [derbyjs](http://derbyjs.com/) - A full-stack framework for writing modern web applications.
 - [actionherojs](http://www.actionherojs.com/) - The Reusable, Scalable, and Quick node.js API Server!
+- [frisbyjs](http://frisbyjs.com/) - A REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun. Read below for a quick overview, or check out the API documentation.
     
 # Data Base
 - [Mongo DB](http://www.mongodb.org/) - The only database that harnesses the innovations of NoSQL.
