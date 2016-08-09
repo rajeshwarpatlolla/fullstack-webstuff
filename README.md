@@ -79,6 +79,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [aurelia](http://aurelia.io/) - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 - [keystonejs](http://keystonejs.com/) - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [stapes](http://hay.github.io/stapes/) - Meet the little Javascript framework that does just enough
+- [sanestack](http://sanestack.com/) - A Javascript Fullstack and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Get Docker support, generators and more.
 
 ### Hybrid Mobile App Frameworks
 - [apache cordova](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
@@ -167,7 +168,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [riotjs](http://riotjs.com/)
-- [feathersjs](http://feathersjs.com/)
+- [feathersjs](http://feathersjs.com/) - A minimalist real-time framework for tomorrow's apps.
+- [seedsjs](http://seedsjs.com/) - Full-stack ember framework
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
