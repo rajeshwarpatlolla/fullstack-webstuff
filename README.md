@@ -170,6 +170,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [riotjs](http://riotjs.com/)
 - [feathersjs](http://feathersjs.com/) - A minimalist real-time framework for tomorrow's apps.
 - [seedsjs](http://seedsjs.com/) - Full-stack ember framework
+- [horizon](http://horizon.io/) - A realtime, open-source backend for JavaScript apps.
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
