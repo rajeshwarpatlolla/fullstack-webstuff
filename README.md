@@ -179,6 +179,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [seedsjs](http://seedsjs.com/) - Full-stack ember framework
 - [horizon](http://horizon.io/) - A realtime, open-source backend for JavaScript apps.
 - [krakenjs](http://krakenjs.com/) - Give your node.js express apps some extra arms
+- [tower](http://tower.github.io/) - Small components for building apps, manipulating data, and automating a distributed infrastructure.
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
