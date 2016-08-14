@@ -183,6 +183,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Impress](https://github.com/metarhia/Impress) - Impress Application Server for node.js
 - [rendr](https://github.com/rendrjs/rendr) - Render your Backbone.js apps on the client and the server, using Node.js.
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - Sequelize is a promise-based ORM for Node.js and io.js.
+- [virgilio](http://icemobilelab.github.io/virgilio/) - Bunyan is the logging framework we use.
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
