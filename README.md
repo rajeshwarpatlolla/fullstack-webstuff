@@ -185,6 +185,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [sequelizejs](http://docs.sequelizejs.com/en/v3/) - Sequelize is a promise-based ORM for Node.js and io.js.
 - [virgilio](http://icemobilelab.github.io/virgilio/) - Bunyan is the logging framework we use.
 - [shps](https://shps.io/) - SHPS is a homepage management system which assists you with making a homepage or web application in general! SHPS comes as a core system (no Admin GUI or additional features) which can be extended with many useful plugins.
+- [cylonjs](https://cylonjs.com/) - Next generation robotics framework with support for 43 different platforms Get Started
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
