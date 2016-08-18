@@ -81,6 +81,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [keystonejs](http://keystonejs.com/) - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [stapes](http://hay.github.io/stapes/) - Meet the little Javascript framework that does just enough
 - [sanestack](http://sanestack.com/) - A Javascript Fullstack and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Get Docker support, generators and more.
+- [montagejs](http://montagestudio.com/montagejs/) - A modern frontend HTML5 framework that supports creating single-page applications—fast.
 
 ### Hybrid Mobile App Frameworks
 - [apache cordova](https://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
