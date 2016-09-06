@@ -154,6 +154,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [MySQL](http://www.mysql.com/)
 - [Oracle](http://www.oracle.com/us/products/database/nosql/overview/index.html)
 - [PostgreSQL](http://www.postgresql.org/)
+- [IndexedDB](https://www.w3.org/TR/IndexedDB/)
 - [parse](https://www.parse.com/)
 - [mlab](https://mlab.com/)
 - [couchbase](http://www.couchbase.com/)
