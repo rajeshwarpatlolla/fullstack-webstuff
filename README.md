@@ -66,6 +66,7 @@ Here i want to give you some information about the technologies, frameworks and 
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/) - A Touch-Optimized Web Framework.
 - [Angular JS](https://angularjs.org/) - By Google.
+- [Angular](https://angular.io/) - One framework. Mobile & desktop.
 - [Ember JS](http://emberjs.com/) - A framework for creating ambitious web applications.
 - [Ext JS](http://www.sencha.com/products/extjs/) - An immense step forward in the evolution of an amazing framework.
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
