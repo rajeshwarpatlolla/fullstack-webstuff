@@ -43,6 +43,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [cascade](http://cascade-framework.com/) - Putting back the C in CSS
 - [kickoff](http://trykickoff.github.io/index.html) - A lightweight front-end framework for creating scalable, responsive sites.
 - [metroui](http://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style.
+- [bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 - [topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 - [inuitcss](http://inuitcss.com/)
 - [muellergridsystem](http://muellergridsystem.com/)
