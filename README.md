@@ -45,6 +45,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [metroui](http://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style.
 - [bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 - [leaf](http://getleaf.com/) - A CSS framework based on Google's material design
+- [getessence](http://getessence.io/) - Build it on one, use it on all
 - [topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 - [inuitcss](http://inuitcss.com/)
 - [muellergridsystem](http://muellergridsystem.com/)
