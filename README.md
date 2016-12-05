@@ -46,6 +46,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 - [leaf](http://getleaf.com/) - A CSS framework based on Google's material design
 - [getessence](http://getessence.io/) - Build it on one, use it on all
+- [Baseguide](http://basegui.de/) - A lightweight and robust CSS framework for prototyping and production code.
 - [topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 - [inuitcss](http://inuitcss.com/)
 - [muellergridsystem](http://muellergridsystem.com/)
