@@ -48,6 +48,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [getessence](http://getessence.io/) - Build it on one, use it on all
 - [Baseguide](http://basegui.de/) - A lightweight and robust CSS framework for prototyping and production code.
 - [siimple](http://siimple.juanes.xyz/) - Minimal CSS framework for flat and clean designs.
+- [Responsive cat](http://www.responsivecat.com/) - CSS Micro framework
 - [topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 - [inuitcss](http://inuitcss.com/)
 - [muellergridsystem](http://muellergridsystem.com/)
