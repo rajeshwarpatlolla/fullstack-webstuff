@@ -99,6 +99,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [stapes](http://hay.github.io/stapes/) - Meet the little Javascript framework that does just enough
 - [sanestack](http://sanestack.com/) - A Javascript Fullstack and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Get Docker support, generators and more.
 - [montagejs](http://montagestudio.com/montagejs/) - A modern frontend HTML5 framework that supports creating single-page applications—fast.
+- [ractivejs](http://www.ractivejs.org/) - The diamond age of web development
 - [Omniscient](http://omniscientjs.github.io/) - Do fast top-down rendering of views while thinking functional programming.
 
 ### Hybrid Mobile App Frameworks
