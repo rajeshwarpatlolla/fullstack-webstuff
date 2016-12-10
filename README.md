@@ -118,11 +118,11 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Supersonic](http://docs.appgyver.com/supersonic/) - Build beautiful data-driven apps with real native performance.
     - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
+- [framework7](http://framework7.io/) - Full Featured HTML Framework For Building iOS & Android Apps
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
 - [Graphic Design Tools](http://www.creativebloq.com/graphic-design/underrated-tools-graphic-designers-12121495)
-
 
 # Back End
 - [Java](http://docs.oracle.com/javase/tutorial/java/)
