@@ -119,6 +119,7 @@ Here i want to give you some information about the technologies, frameworks and 
     - [Steroids](http://www.appgyver.com/steroids) - The missing tooling for hybrid apps.
     - [Composer](http://www.appgyver.com/composer) - The insanely fast way to bootstrap your HTML5 hybrid apps.
 - [framework7](http://framework7.io/) - Full Featured HTML Framework For Building iOS & Android Apps
+- [monaca](https://monaca.io/) - Mobile App Development Fast, Easy and Flexible.
 
 ### Design Tools
 - [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
