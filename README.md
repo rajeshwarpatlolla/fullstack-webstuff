@@ -180,6 +180,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [rackspace](https://www.rackspace.com/cloud)
 - [softlayer](http://www.softlayer.com/)
 - [heroku](https://www.heroku.com/)
+- [cloudways](https://www.cloudways.com/en/)
 
 ## Charts and Graphs
 - [highcharts](http://www.highcharts.com/) - Make your data come alive
