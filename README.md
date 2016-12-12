@@ -177,7 +177,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [amazon aws](https://aws.amazon.com/)
 - [microsoft azure](https://azure.microsoft.com/en-us/)
 - [joyent](https://www.joyent.com/)
-- [rackspace](https://www.rackspace.com/cloud/servers)
+- [rackspace](https://www.rackspace.com/cloud)
 - [softlayer](http://www.softlayer.com/)
 - [heroku](https://www.heroku.com/)
 
