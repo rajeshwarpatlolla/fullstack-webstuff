@@ -192,6 +192,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [angular-chart](http://jtblin.github.io/angular-chart.js/) - Reactive, responsive, beautiful charts for AngularJS based on Chart.js
 - [angular-google-chart](http://angular-google-chart.github.io/angular-google-chart/) - Angular Google Chart
 - [google chart](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices.
+- [chartist-js](http://gionkunz.github.io/chartist-js/) - SIMPLE RESPONSIVE CHARTS
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
