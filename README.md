@@ -194,6 +194,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [google chart](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices.
 - [chartist-js](http://gionkunz.github.io/chartist-js/) - SIMPLE RESPONSIVE CHARTS
 - [n3-charts](http://n3-charts.github.io/line-chart/#/home) - Awesome charts for Angular
+- [Chartkick](http://chartkick.com/) - Create beautiful Javascript charts with one line of Ruby
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
