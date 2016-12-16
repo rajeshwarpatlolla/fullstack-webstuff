@@ -195,6 +195,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [chartist-js](http://gionkunz.github.io/chartist-js/) - SIMPLE RESPONSIVE CHARTS
 - [n3-charts](http://n3-charts.github.io/line-chart/#/home) - Awesome charts for Angular
 - [Chartkick](http://chartkick.com/) - Create beautiful Javascript charts with one line of Ruby
+- [zingchart](https://www.zingchart.com/) - All your dataviz needs in one library
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
