@@ -197,6 +197,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Chartkick](http://chartkick.com/) - Create beautiful Javascript charts with one line of Ruby
 - [zingchart](https://www.zingchart.com/) - All your dataviz needs in one library
 - [fusioncharts](http://www.fusioncharts.com/) - JavaScript charts for web & mobile
+- [flotcharts](http://www.flotcharts.org/) - Attractive JavaScript plotting for jQuery
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
