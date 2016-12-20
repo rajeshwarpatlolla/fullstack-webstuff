@@ -199,6 +199,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [fusioncharts](http://www.fusioncharts.com/) - JavaScript charts for web & mobile
 - [flotcharts](http://www.flotcharts.org/) - Attractive JavaScript plotting for jQuery
 - [amcharts](https://www.amcharts.com/) - JavaScript Charts & Maps
+- [ejschart](http://www.ejschart.com/index.php) - EJSCharts is the open source solution for home and business data representation and customization.
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
