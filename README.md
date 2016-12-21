@@ -200,6 +200,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [flotcharts](http://www.flotcharts.org/) - Attractive JavaScript plotting for jQuery
 - [amcharts](https://www.amcharts.com/) - JavaScript Charts & Maps
 - [ejschart](http://www.ejschart.com/index.php) - EJSCharts is the open source solution for home and business data representation and customization.
+- [uvCharts](http://imaginea.github.io/uvCharts/) - Just one API function to learn and master, for all your charting needs.
 
 ## Useful Libraries / Plugins
 - [Moment JS](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
