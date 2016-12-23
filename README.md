@@ -66,6 +66,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [concisecss](http://concisecss.com/) - A framework written in SASS that’s lightweight and easy-to-use.
 - [modestgrid](http://modestgrid.com/) - An easy to customise grid framework that allows for the rapid development of responsive websites.
 - [responsivegridsystem](http://www.responsivegridsystem.com/) -  It's a quick, easy & flexible way to create a responsive web site.
+- [Clarity](https://vmware.github.io/clarity/index.html) - Clarity Design System
 
 ### Java Script Frameworks
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
