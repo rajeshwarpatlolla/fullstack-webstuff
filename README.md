@@ -233,6 +233,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [django-rest-framework](http://www.django-rest-framework.org/topics/documenting-your-api/)
 - [miredot](http://www.miredot.com/index.html) - The most advanced REST API documentation generator for Java.
 
+# Module bundlers
+- [webpack](https://webpack.github.io/) - MODULE BUNDLER
+
 # Icons
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
 - [Material icons](https://design.google.com/icons/) - Material icons
