@@ -276,7 +276,6 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Staticapps](http://www.staticapps.org/)
 - [backand](https://www.backand.com/)
 
-
 ## JavaScript game engines
 - [cocos 3D](http://cocos3d.org/) - Create amazing 3D apps & games for mobile.
 - [impactjs](http://impactjs.com/) - The awesomest way to create even more awesome html5 games!
@@ -357,8 +356,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ionic-atom](https://atom.io/packages/ionic-atom)
 
 ## Plugins List
-- [AngularJS](http://ngmodules.org/) - Find Modules for AngularJS
-- [ionic](http://market.ionic.io/)
+- [AngularJS Modules](http://ngmodules.org/) - Find Modules for AngularJS
+- [ionic Market](http://market.ionic.io/plugins)
 - [gulpjs](http://gulpjs.com/plugins/)
 - [jquery-plugins](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
 - [noodl.io](http://www.seipel-ibisevic.com/noodl/) - By Developers, For Developers.
