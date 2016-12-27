@@ -235,6 +235,8 @@ Here i want to give you some information about the technologies, frameworks and 
 
 # Module bundlers
 - [webpack](https://webpack.github.io/) - MODULE BUNDLER
+- [lasso](https://github.com/lasso-js/lasso) - Advanced JavaScript module bundler, asset pipeline and optimizer
+- [jspm](http://jspm.io/) - Frictionless browser package management
 
 # Icons
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
