@@ -81,6 +81,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [React JS](https://facebook.github.io/react/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-native](https://facebook.github.io/react-native/) - Learn once, write anywhere: build mobile apps with React.
 - [electrode](http://www.electrode.io/) - UNIVERSAL REACT/NODE APPLICATION PLATFORM
+- [coffeescript](http://coffeescript.org/) - CoffeeScript is a little language that compiles into JavaScript
 - [Prototype](http://prototypejs.org/) - It takes the complexity out of client-side web programming.
 - [GWT](http://www.gwtproject.org/) - GWT is used by many products at Google, including Google AdWords and Google Wallet.
 - [MooTools](http://mootools.net/) - A collection of JS utilities designed for the intermediate to advanced JS developer.
@@ -240,6 +241,9 @@ Here i want to give you some information about the technologies, frameworks and 
 - [browserify](http://browserify.org/) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 - [systemjs](https://github.com/systemjs/builder) - SystemJS build tool
 - [rollupjs](http://rollupjs.org/) - the next-generation JavaScript module bundler
+
+# Other Programming Languages
+
 
 # Icons
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
