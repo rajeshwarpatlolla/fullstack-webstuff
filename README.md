@@ -243,7 +243,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [rollupjs](http://rollupjs.org/) - the next-generation JavaScript module bundler
 
 # Other Programming Languages
-
+- [golang](https://golang.org/) - An open source programming language that makes it easy to build simple, reliable, and efficient software.
 
 # Icons
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
