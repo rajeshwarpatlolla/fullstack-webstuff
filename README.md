@@ -245,6 +245,7 @@ Here i want to give you some information about the technologies, frameworks and 
 # Other Programming Languages
 - [golang](https://golang.org/) - An open source programming language that makes it easy to build simple, reliable, and efficient software.
 - [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) - Objective-C is the primary programming language you use when writing software for OS X and iOS
+- [swift](https://developer.apple.com/swift/) - The powerful programming language that is also easy to learn.
 
 # Icons
 - [fontawesome](http://fontawesome.io/) - The iconic font and CSS toolkit
