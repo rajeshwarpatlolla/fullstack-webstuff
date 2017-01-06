@@ -212,6 +212,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [is.js](http://arasatasaygin.github.io/is.js/) - Check types, regexps, presence, time and more.
 - [underscorejs](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [redux](http://redux.js.org) - Predictable state container for JavaScript apps
 - [riotjs](http://riotjs.com/)
 - [wintersmith](http://wintersmith.io/) - Flexible, minimalistic, multi-platform static site generator built on top of node.js.
 - [feathersjs](http://feathersjs.com/) - A minimalist real-time framework for tomorrow's apps.
@@ -225,6 +226,11 @@ Here i want to give you some information about the technologies, frameworks and 
 - [virgilio](http://icemobilelab.github.io/virgilio/) - Bunyan is the logging framework we use.
 - [shps](https://shps.io/) - SHPS is a homepage management system which assists you with making a homepage or web application in general! SHPS comes as a core system (no Admin GUI or additional features) which can be extended with many useful plugins.
 - [cylonjs](https://cylonjs.com/) - Next generation robotics framework with support for 43 different platforms Get Started
+- [falcor](http://netflix.github.io/falcor/) - A JavaScript library for efficient data fetching
+- [restful.js](https://github.com/marmelab/restful.js) - A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
+- [fetch](https://github.github.io/fetch/) - A window.fetch JavaScript polyfill.
+- [postcss](http://postcss.org/) - A tool for transforming CSS with JavaScript
+
 
 # API Docs
 - [api blueprint](https://apiblueprint.org/) - API Documentation with powerful tooling.
