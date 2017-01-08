@@ -315,7 +315,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [ios-sim](https://github.com/phonegap/ios-sim)
 
 ## Wireframing Tools
-- [mockflow](https://mockflow.com/)
+- [mockflow](https://www.mockflow.com/)
 - [moqups](https://moqups.com/)
 - [justinmind](http://www.justinmind.com/free)
 - [balsamiq](https://balsamiq.com/products/mockups/)
@@ -340,6 +340,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [protoshare](http://www.protoshare.com/)
 - [OmniGraffle](http://www.omnigroup.com/)
 - [flairbuilder](http://www.flairbuilder.com/)
+- [fluidui](https://www.fluidui.com/)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
