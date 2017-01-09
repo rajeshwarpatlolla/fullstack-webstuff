@@ -341,6 +341,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [OmniGraffle](http://www.omnigroup.com/)
 - [flairbuilder](http://www.flairbuilder.com/)
 - [fluidui](https://www.fluidui.com/)
+- [Adobe InDesign CC](http://www.adobe.com/in/products/indesign.html?sdid=952G4XMS&92X1519156X7d616cf9ee5c084828c2931ed182bb81)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
