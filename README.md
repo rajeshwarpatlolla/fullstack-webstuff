@@ -317,7 +317,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ## Wireframing Tools
 - [mockflow](https://www.mockflow.com/)
 - [moqups](https://moqups.com/)
-- [justinmind](http://www.justinmind.com/free)
+- [justinmind](http://www.justinmind.com/)
 - [balsamiq](https://balsamiq.com/products/mockups/)
 - [wireframe](https://wireframe.cc/)
 - [gomockingbird](https://gomockingbird.com/home)
