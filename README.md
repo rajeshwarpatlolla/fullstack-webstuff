@@ -336,7 +336,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [iphonemockup](http://iphonemockup.lkmc.ch/)
 - [lumzy](http://www.lumzy.com/)
 - [omnigroup](http://www.omnigroup.com/)
-- [gliffy](https://www.gliffy.com/)
+- [gliffy](https://www.gliffy.com/) - Make Diagramming a Team Sport
 - [protoshare](http://www.protoshare.com/)
 - [OmniGraffle](http://www.omnigroup.com/)
 - [flairbuilder](http://www.flairbuilder.com/)
