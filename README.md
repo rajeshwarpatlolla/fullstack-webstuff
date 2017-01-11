@@ -322,7 +322,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [wireframe](https://wireframe.cc/)
 - [gomockingbird](https://gomockingbird.com/home)
 - [cacoo](https://cacoo.com/lang/en/home)
-- [axure](http://www.axure.com/)
+- [axure](http://www.axure.com/) - DESIGN THE RIGHT SOLUTION
 - [uxpin](https://www.uxpin.com/)
 - [pidoco](https://pidoco.com/en)
 - [iplotz](http://iplotz.com/)
@@ -342,7 +342,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [flairbuilder](http://www.flairbuilder.com/)
 - [fluidui](https://www.fluidui.com/)
 - [Adobe InDesign CC](http://www.adobe.com/in/products/indesign.html?sdid=952G4XMS&92X1519156X7d616cf9ee5c084828c2931ed182bb81)
-- [hotgloo](https://www.hotgloo.com/) - NEXT LEVEL WIREFRAMING & PROTOTYPING TOOL 
+- [hotgloo](https://www.hotgloo.com/) - NEXT LEVEL WIREFRAMING & PROTOTYPING TOOL
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
