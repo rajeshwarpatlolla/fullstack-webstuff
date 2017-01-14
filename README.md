@@ -345,7 +345,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [hotgloo](https://www.hotgloo.com/) - NEXT LEVEL WIREFRAMING & PROTOTYPING TOOL
 - [mockplus](https://www.mockplus.com/) - PROTOTYPE FASTER. SMARTER. EASIER.
 - [lovelycharts](http://lovelycharts.com/)
-
+- [simplediagrams](http://www.simplediagrams.com/)
 
 ## IDEs
 - [JetBrains webstorm](http://www.jetbrains.com/webstorm/)
