@@ -346,6 +346,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [mockplus](https://www.mockplus.com/) - PROTOTYPE FASTER. SMARTER. EASIER.
 - [lovelycharts](http://lovelycharts.com/)
 - [simplediagrams](http://www.simplediagrams.com/)
+- [flinto](https://www.flinto.com/) - App Prototyping Tools for Designers
 - [talltree](http://wireframe.talltree.us/default.asp)
 
 ## IDEs
