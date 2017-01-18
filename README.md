@@ -175,6 +175,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [couchbase](http://www.couchbase.com/)
 - [aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale
 - [flickerjs](http://flickerstudio.github.io/flickerjs/) - Super fast and simple web framework for node.js
+- [IBM DB2](https://www.ibm.com/analytics/us/en/technology/db2/) - No-boundaries database software for the digital, cloud and cognitive era
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
