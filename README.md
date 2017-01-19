@@ -176,6 +176,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale
 - [flickerjs](http://flickerstudio.github.io/flickerjs/) - Super fast and simple web framework for node.js
 - [IBM DB2](https://www.ibm.com/analytics/us/en/technology/db2/) - No-boundaries database software for the digital, cloud and cognitive era
+- [sqlite](https://sqlite.org/) - SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
