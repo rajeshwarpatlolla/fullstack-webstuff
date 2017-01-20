@@ -178,6 +178,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [IBM DB2](https://www.ibm.com/analytics/us/en/technology/db2/) - No-boundaries database software for the digital, cloud and cognitive era
 - [sqlite](https://sqlite.org/) - SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 - [couchdb](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+- [cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
