@@ -179,6 +179,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [sqlite](https://sqlite.org/) - SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 - [couchdb](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 - [cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
+- [orientdb](http://orientdb.com/orientdb/) - The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
