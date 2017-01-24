@@ -181,6 +181,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
 - [orientdb](http://orientdb.com/orientdb/) - The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine
 - [Amazon SimpleDB](https://aws.amazon.com/simpledb/)
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
