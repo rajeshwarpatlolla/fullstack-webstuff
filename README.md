@@ -183,6 +183,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Amazon SimpleDB](https://aws.amazon.com/simpledb/)
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 - [CLOUD SQL](https://cloud.google.com/sql/) - A fully-managed MySQL database service.
+- [sql database](https://azure.microsoft.com/en-us/services/sql-database/?b=16.50)
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
