@@ -185,6 +185,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [CLOUD SQL](https://cloud.google.com/sql/) - A fully-managed MySQL database service.
 - [sql database](https://azure.microsoft.com/en-us/services/sql-database/?b=16.50)
 - [Database.com](http://www.salesforce.com/platform/database/) - Welcome to the world’s most trusted and secure cloud database.
+- [cleardb](http://w2.cleardb.net/)
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
