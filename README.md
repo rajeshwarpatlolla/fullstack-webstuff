@@ -187,6 +187,7 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Database.com](http://www.salesforce.com/platform/database/) - Welcome to the world’s most trusted and secure cloud database.
 - [cleardb](http://w2.cleardb.net/)
 - [pouchdb](https://pouchdb.com/) - PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+- [taffydb](http://www.taffydb.com/) - The JavaScript Database
 
 # Hosting
 - [amazon aws](https://aws.amazon.com/)
