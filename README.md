@@ -79,6 +79,8 @@ Here i want to give you some information about the technologies, frameworks and 
 - [Backbone JS](http://backbonejs.org/) - An open-source component of DocumentCloud.
 - [Knockout JS](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern
 - [React JS](https://facebook.github.io/react/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Svelte](https://svelte.dev/) - Build Cybernetically enhanced web apps.
+- [Preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
 - [react-native](https://facebook.github.io/react-native/) - Learn once, write anywhere: build mobile apps with React.
 - [electrode](http://www.electrode.io/) - UNIVERSAL REACT/NODE APPLICATION PLATFORM
 - [coffeescript](http://coffeescript.org/) - CoffeeScript is a little language that compiles into JavaScript
